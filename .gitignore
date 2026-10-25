@@ -1,0 +1,14 @@
+# Login do navegador: NUNCA publique
+perfil_navegador/
+
+# Dados pessoais de uso
+posts.csv
+agendados.json
+
+# Imagens dos seus posts (mantém só o exemplo)
+cards/*
+!cards/exemplo.png
+
+__pycache__/
+*.pyc
+.venv/

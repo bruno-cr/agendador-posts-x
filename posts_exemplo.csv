@@ -1,0 +1,3 @@
+﻿data;hora;imagem;texto;descricao_imagem
+15/12/2026;12:30;cards/exemplo.png;Meu primeiro post agendado automaticamente! 🚀;Imagem azul com o texto Imagem de exemplo.
+16/12/2026;19:00;;Post só com texto também funciona: basta deixar a coluna imagem vazia.;
